@@ -1,0 +1,40 @@
+Dear Hiring Team,
+
+I am an aspiring AI/ML Developer with hands-on experience across the model
+lifecycle—from data pipelines and deep learning to GenAI integration and
+production deployment. My B.Tech specialization in AI/ML, combined with two
+end-to-end projects built and deployed independently and in a team, has given
+me practical exposure to the kind of work this role involves: training and
+evaluating models, integrating them into real applications, and shipping
+them to production.
+
+One of my key projects is HireMatch, a GenAI-powered resume analysis
+platform. I designed the pipeline end-to-end—parsing resume PDFs, structuring
+the extracted text into prompts, and calling an LLM (GPT-4o-mini) to return
+ATS scores, skills-gap analysis, and rewrite suggestions in a strict JSON
+format that downstream code could reliably parse. I also built and deployed
+the surrounding platform (React, Node.js, Express, MongoDB) with JWT
+authentication, containerized it with Docker, and shipped it to AWS EC2
+behind Nginx with HTTPS—it is live in production today.
+
+I have also worked on DrishtiVision, a deepfake detection system, where I
+trained deep learning models (EfficientNet-B4 for images, Bi-LSTM with
+Temporal Attention for video) on a dataset of 300K+ images and 9,600+ video
+samples, reaching 96% and 90% classification accuracy respectively. As part
+of a 4-member team, I contributed to dataset preparation, built FastAPI
+inference endpoints for real-time predictions, and connected them to a React
+dashboard for live results.
+
+Alongside this applied experience, I bring a solid foundation in Python
+(NumPy, Pandas, Scikit-learn), core CS fundamentals (Data Structures &
+Algorithms, Operating Systems, DBMS, SQL), and hands-on exposure to prompt
+engineering and LLM integration. I am eager to build on this foundation,
+deepen my understanding of ML algorithms and GenAI systems under
+experienced engineers, and contribute to your team's AI product lifecycle
+from day one.
+
+Thank you for considering my application. I would welcome the opportunity
+to discuss how my skills and projects could contribute to your team.
+
+Best regards,
+Utsav Kashyap
